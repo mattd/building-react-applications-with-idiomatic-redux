@@ -1,4 +1,4 @@
-# redux-playground
+# building-react-applications-with-idiomatic-redux
 
 ## install
 
